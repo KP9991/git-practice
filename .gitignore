@@ -1,0 +1,9 @@
+# Ignore log files
+*.log
+
+# Ignore environment files containing secrets
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
