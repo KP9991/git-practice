@@ -1,1 +1,1 @@
-I am learning Git as the first step in my DevOps journey.
+I am learning Git merge conflict.
