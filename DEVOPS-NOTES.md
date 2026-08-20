@@ -1,1 +1,1 @@
-I am learning Git merge conflict.
+I am Practising Professional Git Workflows.
