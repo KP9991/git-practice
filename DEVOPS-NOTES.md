@@ -1,1 +1,1 @@
-I am learning Git as the first step in my DevOps journey.
+I am Learning how Git works in a DevOps Team.
